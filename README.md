@@ -27,7 +27,7 @@
 
 ## 🌟 Preview
 
-![Software Icons Preview Image](pics/icons.wepb)
+![Software Icons Preview Image](pics/icons.jpg)
 
 ## ✨ Features
 
