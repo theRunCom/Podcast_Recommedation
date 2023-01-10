@@ -1,5 +1,5 @@
 <div align="center" id="madewithlua">
-    <img src="pics/istockphoto.jpg" width="350", height="300">
+    <img src="pics/podcasts.png" width="350", height="300">
 </div>
 
 <h1 align="center">Podcast_Recommedation</h1>
@@ -27,9 +27,7 @@
 
 ## 🌟 Preview
 
-![Dashboard Preview Image](https://github.com/AstroNvim/astronvim.github.io/raw/main/static/img/dashboard.png)
-![Coding Preview Image](https://github.com/AstroNvim/astronvim.github.io/raw/main/static/img/overview.png)
-![Debugging Preview Image](https://github.com/AstroNvim/astronvim.github.io/raw/main/static/img/dap.png)
+![Software Icons Preview Image](pics/icons.wepb)
 
 ## ✨ Features
 
