@@ -29,12 +29,12 @@
 
 ![Software Icons Preview Image](pics/icons.jpg)
 
-## ✨ Features
+## ✨ Records
 
 - File explorer with [Neo-tree](https://github.com/nvim-neo-tree/neo-tree.nvim)
 - Autocompletion with [Cmp](https://github.com/hrsh7th/nvim-cmp)
 
-## ⚡ Requirements
+## ⚡ Recommedations
 
 - [Nerd Fonts](https://www.nerdfonts.com/font-downloads) (_Optional with manual intervention:_ See [Documentation on customizing icons](https://astronvim.github.io/Recipes/icons))
 - [Neovim 0.8 (_Not_ including nightly)](https://github.com/neovim/neovim/releases/tag/v0.8.0)
@@ -51,10 +51,7 @@
 
 > Note when using default theme: For MacOS, the default terminal does not have true color support. You will need to use [iTerm2](https://iterm2.com/) or another [terminal emulator](https://gist.github.com/XVilka/8346728#terminal-emulators) that has true color support.
 
-## 📦 Basic Setup
-
-
-## 🗒️ Links
+## 🗒️ Notes
 
 [AstroNvim Documentation](https://astronvim.github.io/)
 [Core AstroNvim LUA API Documentation](https://astronvim.github.io/AstroNvim/)
